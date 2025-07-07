@@ -8,6 +8,7 @@ metadata:
 spec:
   hostnames:
     - dylan.test.com
+    - another.test.com
   parentRefs:
     - name: i-dont-exist
       namespace: default
