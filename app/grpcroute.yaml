@@ -3,7 +3,7 @@
 apiVersion: gateway.networking.k8s.io/v1
 kind: GRPCRoute
 metadata:
-  name: myservice
+  name: myservice-synthetics
   namespace: default
 spec:
   hostnames:
